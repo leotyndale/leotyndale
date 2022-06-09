@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leotyndale&hide=commits,prs,contribs)](https://imuxuan.com)
 
-[![《移动开发架构设计实战》](https://upload-images.jianshu.io/upload_images/14802001-4864444c478c88ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://item.jd.com/12730926.html)
+[![《移动开发架构设计实战》](https://upload-images.jianshu.io/upload_images/14802001-4864444c478c88ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)](https://item.jd.com/12730926.html)
 
 <!--
 **leotyndale/leotyndale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
