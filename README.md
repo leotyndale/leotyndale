@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leotyndale&hide=commits,prs,contribs)](https://imuxuan.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leotyndale&hide=commits,prs,contribs&show_icons=true)
 
 [![《移动开发架构设计实战》](https://upload-images.jianshu.io/upload_images/14802001-4864444c478c88ee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)](https://item.jd.com/12730926.html)
 
