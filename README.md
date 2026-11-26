@@ -1,28 +1,72 @@
-### Hi there, I'm Leo Tyndale (沐暄) 👋
+### Hi there, I'm Yunpeng Li (Leo Tyndale / 沐暄) 👋
 
-Android & Mobile Architecture · Independent Blogger · Author
+Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author · Speaker · TCC Member
 
-[![Blog](https://img.shields.io/badge/Blog-ForDeer-0ea5e9?style=flat-square&logo=rss&logoColor=white)](https://blog.imuxuan.com/)
+[![Android GDE](https://img.shields.io/badge/Google_Developer_Expert-Android-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/fly)
+[![APEC App Challenge](https://img.shields.io/badge/2023_APEC_App_Challenge-Runner--Up_(Seattle)-0ea5e9?style=flat-square)](https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners)
+[![JetBrains Plugins](https://img.shields.io/badge/JetBrains_Plugins-61K%2B_Downloads-f59e0b?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e)
+[![Blog](https://img.shields.io/badge/Blog-ForDeer-0284c7?style=flat-square&logo=rss&logoColor=white)](https://blog.imuxuan.com/)
 [![Website](https://img.shields.io/badge/Website-imuxuan.com-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://imuxuan.com/)
-[![Book](https://img.shields.io/badge/Book-%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98-f59e0b?style=flat-square&logo=bookstack&logoColor=white)](https://blog.imuxuan.com/archives/116)
 [![Followers](https://img.shields.io/github/followers/leotyndale?style=flat-square&color=6366f1)](https://github.com/leotyndale?tab=followers)
 
 ---
 
-### 📚 出版与著作 (Books)
+### 🏆 荣誉与认证 (Honors & Highlights)
 
 <table>
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="270">
+      <a href="https://developers.google.com/profile/u/fly">
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/gde_cert.jpg" width="240" alt="Google Developer Expert Android Certificate" />
+      </a>
+      <br />
+      <b>Google Developer Expert (Android)</b>
+      <br />
+      <sub>大中华区第 4 / 全球第 122 位官方认证专家</sub>
+      <br />
+      <a href="https://developers.google.com/profile/u/fly">Google Developer Profile</a>
+    </td>
+    <td align="center" width="270">
+      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/apec_ceremony.jpg" width="240" alt="2023 APEC App Challenge Runner-Up Seattle" />
+      </a>
+      <br />
+      <b>2023 APEC App Challenge 亚军</b>
+      <br />
+      <sub>美国西雅图亚太经合组织官方决赛 · 作品 ExpertPro</sub>
+      <br />
+      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">官方新闻稿</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">官方视频</a>
+    </td>
+    <td align="center" width="270">
+      <a href="https://travelerscenturyclub.org/">
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/tcc_member.jpg" width="240" alt="Travelers Century Club Membership Card" />
+      </a>
+      <br />
+      <b>Travelers' Century Club 会员</b>
+      <br />
+      <sub>TCC Member No. 7344 · 深度游历全球 130+ 国家与地区</sub>
+      <br />
+      <a href="https://travelerscenturyclub.org/">TCC 官网</a> · <a href="https://imuxuan.com/">游记与随笔</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📚 著作与特邀课程 (Books & Course)
+
+<table>
+  <tr>
+    <td align="center" width="240">
       <a href="https://item.jd.com/12730926.html">
         <img src="https://blog.imuxuan.com/wp-content/uploads/2019/08/901574650976_.pic_.jpg" width="140" alt="移动开发架构设计实战" />
       </a>
       <br />
       <b>《移动开发架构设计实战》</b>
       <br />
-      <sub>电子工业出版社 · Andy Hunt 力荐</sub>
+      <sub>电子工业出版社 · Andy Hunt 力荐 · 河北经贸大学计算机硕士必读书目</sub>
       <br />
-      <a href="https://item.jd.com/12730926.html">京东</a> · <a href="https://book.douban.com/subject/34872142/">豆瓣</a> · <a href="https://github.com/leotyndale/AppArchitecture">源码</a> · <a href="https://blog.imuxuan.com/archives/116">勘误</a>
+      <a href="https://item.jd.com/12730926.html">京东</a> · <a href="https://book.douban.com/subject/34872142/">豆瓣</a> · <a href="https://github.com/leotyndale/AppArchitecture">源码</a> · <a href="https://blog.imuxuan.com/archives/116">勘误</a> · <a href="https://it.hueb.edu.cn/info/1151/2205.htm">培养方案</a>
     </td>
     <td align="center" width="200">
       <a href="https://imuxuan.com/">
@@ -49,11 +93,13 @@ Android & Mobile Architecture · Independent Blogger · Author
   </tr>
 </table>
 
-> 另著有《面向绩效编程》等作品，更多文字与随笔欢迎访问 [ForDeer 博客](https://blog.imuxuan.com/) 与 [沐暄公益网](https://imuxuan.com/)。
+> 🎓 **特邀系列课程**：[《程序员的向上管理法》](https://coding.imooc.com/class/580.html)（慕课网官方特邀录制 · 工程师职业成长、研发效能对齐与职场沟通方法论）
 
 ---
 
-### 🛠️ 开源项目 (Featured Projects)
+### 🛠️ 开源项目与研发效率工具 (Open Source & IDE Plugins)
+
+#### GitHub 开源代表项目
 
 | 项目 | 简介 | Stars | 延伸阅读 |
 | --- | --- | --- | --- |
@@ -63,6 +109,64 @@ Android & Mobile Architecture · Independent Blogger · Author
 | [EnDebugBubble](https://github.com/leotyndale/EnDebugBubble) | 应用内悬浮调试气泡入口，动态监控内存信息 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnDebugBubble?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
 | [EnLastLineNoSpaceTextView](https://github.com/leotyndale/EnLastLineNoSpaceTextView) | 消除 TextView `lineSpacingExtra` 末行多余空白 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnLastLineNoSpaceTextView?style=flat-square&color=f59e0b) | [沐暄公益网](https://imuxuan.com/) |
 | [EnViewSelector](https://github.com/leotyndale/EnViewSelector) | 轻量级文字选择与填充控件 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnViewSelector?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
+
+#### JetBrains 官方市场插件（[开发者主页](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e) · 累计下载 **61,584+**）
+
+| 插件 | 下载量 | 核心能力 |
+| --- | --- | --- |
+| [A Search with Github](https://plugins.jetbrains.com/plugin/11331--a-search-with-github) | 32,181+ | 选中代码一键跳转 GitHub 检索实现参考 |
+| [NR Null Object](https://plugins.jetbrains.com/plugin/11255--nr-null-object) | 11,930+ | 一键生成 Null Object，消除散落判空分支 |
+| [NR Feature Toggle](https://plugins.jetbrains.com/plugin/11352--nr-feature-toggle) | 7,959+ | 按对象自动生成 Feature Toggle 开关代码 |
+| [Android NR Bundle Builder](https://plugins.jetbrains.com/plugin/10805-android-nr-bundle-builder) | 5,567+ | 以 Builder 模式构造 Bundle，消除方法重载膨胀 |
+| [NR Coding Style](https://plugins.jetbrains.com/plugin/12765-nr-coding-style) | 3,947+ | 基于 P3C、PMD、GitHook 与 PsiApi 落地代码规范 |
+
+---
+
+### 📜 发明专利与著作权 (Patents & Copyrights)
+
+> **第一发明人公开专利申请 21 项（14 项已授权）· 第一著作权人 2 项**
+
+<details>
+<summary>展开查看完整 21 项公开专利与 2 项著作权清单（附 Google Patents / 版权验证链接）</summary>
+
+| # | 公开号 / 登记号 | 名称 | 类型 | 状态 / 授权日 |
+| --- | --- | --- | --- | --- |
+| 1 | [CN113342736A](https://patents.google.com/patent/CN113342736A/zh) | 一种存储路径管理方法、装置、介质和计算设备 | 发明专利 | 已授权（2025-03-28） |
+| 2 | [CN113190462A](https://patents.google.com/patent/CN113190462A/zh) | 一种动态化的数据调试方法和装置及设备 | 发明专利 | 已授权（2025-02-28） |
+| 3 | [CN113111138A](https://patents.google.com/patent/CN113111138A/zh) | 数据处理方法、装置、计算设备以及介质 | 发明专利 | 已授权（2025-05-02） |
+| 4 | [CN113110846A](https://patents.google.com/patent/CN113110846A/zh) | 一种环境变量的获取方法及装置 | 发明专利 | 已授权（2025-01-10） |
+| 5 | [CN111290818A](https://patents.google.com/patent/CN111290818A/zh) | 创建应用程序的操作方法及应用程序的操作方法 | 发明专利 | 已授权（2023-07-25） |
+| 6 | [CN110275701A](https://patents.google.com/patent/CN110275701A/zh) | 数据处理方法、装置、介质和计算设备 | 发明专利 | 已授权（2023-05-23） |
+| 7 | [CN110147260B](https://patents.google.com/patent/CN110147260B/zh) | 实现场景过渡动画的方法、介质、装置和计算设备 | 发明专利 | 已授权（2022-02-11） |
+| 8 | [CN109408057B](https://patents.google.com/patent/CN109408057B/zh) | 自动生成代码的方法、装置、介质和计算设备 | 发明专利 | 已授权（2022-03-04） |
+| 9 | [CN109309588B](https://patents.google.com/patent/CN109309588B/zh) | 保证动态化配置数据一致性的方法和装置 | 发明专利 | 已授权（2022-01-11） |
+| 10 | [CN109669592B](https://patents.google.com/patent/CN109669592B/zh) | 控制悬浮窗展示的方法、装置、介质和计算设备 | 发明专利 | 已授权（2021-02-09） |
+| 11 | [CN109445966B](https://patents.google.com/patent/CN109445966B/zh) | 事件处理方法、装置、介质和计算设备 | 发明专利 | 已授权（2020-11-10） |
+| 12 | [CN109344277B](https://patents.google.com/patent/CN109344277B/zh) | 图片处理方法、装置、介质和计算设备 | 发明专利 | 已授权（2020-10-20） |
+| 13 | [CN121165989A](https://patents.google.com/patent/CN121165989A/zh) | 移动端手动抠图方法及系统、目标搜索方法及系统 | 发明专利 | 公开（2025-12-19） |
+| 14 | [CN113342347A](https://patents.google.com/patent/CN113342347A/zh) | 信息处理方法、装置、计算设备以及介质 | 发明专利 | 实质审查中 |
+| 15 | [CN113221052A](https://patents.google.com/patent/CN113221052A/zh) | 一种数据预取方法、装置、电子设备及存储介质 | 发明专利 | 实质审查中 |
+| 16 | [CN113343649A](https://patents.google.com/patent/CN113343649A/zh) | 文件注释方法、装置、存储介质和计算设备 | 发明专利 | 实质审查中 |
+| 17 | [CN113094051A](https://patents.google.com/patent/CN113094051A/zh) | 应用程序的构建方法、装置、设备和介质 | 发明专利 | 实质审查中 |
+| 18 | [CN111338939A](https://patents.google.com/patent/CN111338939A/zh) | 应用程序调试方法、介质、装置和计算设备 | 发明专利 | 实质审查中 |
+| 19 | [CN109086117A](https://patents.google.com/patent/CN109086117A/zh) | 消息显示方法和装置 | 发明专利 | 实质审查中 |
+| 20 | [CN204265756U](https://patents.google.com/patent/CN204265756U/zh) | 一种乙醇能源草燃烧和再循环的沼气池 | 实用新型 | 已授权（2015-04-15） |
+| 21 | [CN204265133U](https://patents.google.com/patent/CN204265133U/zh) | 一种自动隐形绕线器 | 实用新型 | 已授权（2015-04-15） |
+| 22 | [2014SR195945](https://banquan.tianyancha.com/rj/17cv4o5eec411564dbe50313fl1cv9c6) | 轻杀毒安全防护软件（安卓版） | 软件著作权 | 已授权（2014-12-16） |
+| 23 | [国作登字-2015-A-00172946](https://banquan.tianyancha.com/zp/9cmeomef68c6429a8cdf5a1aala1e1b7) | 嵬魅枯影之梦玲奇难 | 作品著作权 | 已授权（2015-02-05） |
+
+</details>
+
+---
+
+### 🎤 代表性技术演讲与文章 (Selected Talks & Articles)
+
+- **2023.12 · Google DevFest Bishkek（吉尔吉斯斯坦）** — [AI Image search: CameraX with machine learning on Alibaba.com](https://www.youtube.com/watch?v=QkHs8hHiXww)
+- **2023.09 · APEC App Challenge Seattle（美国西雅图）** — [ExpertPro（亚军作品官方视频）](https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge)
+- **2021.11 · Google DevFest Shanghai（线下 1,400 / 线上 30 万）** — [从宇宙大爆炸到 Android](https://www.bilibili.com/video/BV1Ur4y1H77h/)
+- **2021.06 · Google Community Talks** — [4 大变革：Android 虚拟机的前世今生](https://gdg.community.dev/events/details/google-gdg-beijing-presents-she-qu-shuo-ben-zhou-si-wan-4da-bian-ge-androidxu-ni-ji-de-qian-shi-jin-sheng/)
+- **2020.10 · QCon 全球软件开发者大会（北京）** — [在领域驱动设计（DDD）下重构 APP 架构](https://qcon.infoq.cn/2020/beijing/presentation/2452)
+- **InfoQ 首发技术实践** — [网易新闻 QUIC 敏捷实践（QUIC 占比 75%+、RT -45%、错误率 -50%+）](https://www.infoq.cn/article/FyHfrAfWtwgPW4q1oRF1)
 
 ---
 
