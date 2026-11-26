@@ -11,25 +11,25 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://developers.google.com/profile/u/fly"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_gde_v3.jpg" width="185" alt="Android GDE" /></a><br />
       <b>Android GDE</b><br />
       <sub>大中华区 #4 · 全球 #122</sub><br />
       <a href="https://developers.google.com/profile/u/fly">主页</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_apec_v3.jpg" width="185" alt="2023 APEC App Challenge" /></a><br />
       <b>APEC 挑战赛亚军</b><br />
       <sub>2023 西雅图 · ExpertPro</sub><br />
       <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">新闻</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">视频</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://travelerscenturyclub.org/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_tcc_v3.jpg" width="185" alt="TCC Member" /></a><br />
       <b>TCC 会员</b><br />
       <sub>No. 7344 · 130+ 国</sub><br />
       <a href="https://travelerscenturyclub.org/">官网</a> · <a href="https://imuxuan.com/">游记</a>
     </td>
-    <td align="center" width="25%">
+    <td align="center" valign="top" width="25%">
       <a href="https://leotyndale.github.io/etoile-almanach/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile_v3.jpg" width="185" alt="ÉTOILE" /></a><br />
       <b>环球美食志</b><br />
       <sub>579★ 米其林 · 点评 1.8W粉</sub><br />
@@ -42,19 +42,19 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="280">
       <a href="https://item.jd.com/12730926.html"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_arch.jpg" width="135" alt="移动开发架构设计实战" /></a><br />
       <b>《移动开发架构设计实战》</b><br />
       <sub>电子工业出版社 · Andy Hunt 力荐</sub><br />
       <a href="https://item.jd.com/12730926.html">京东</a> · <a href="https://book.douban.com/subject/34872142/">豆瓣</a> · <a href="https://github.com/leotyndale/AppArchitecture">源码</a> · <a href="https://blog.imuxuan.com/archives/116">勘误</a> · <a href="https://ggw.100xuexi.com/WebSpecF/EnrolDetail.aspx?id=222953">培养方案</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="280">
       <a href="https://imuxuan.com/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_wmk.jpg" width="135" alt="嵬魅枯影" /></a><br />
       <b>《嵬魅枯影》</b><br />
       <sub>长篇奇幻小说 · 当代文化艺术出版社</sub><br />
       <a href="https://imuxuan.com/">沐暄公益网</a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" valign="top" width="280">
       <a href="https://imuxuan.com/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_youth.jpg" width="135" alt="青春进行时" /></a><br />
       <b>《青春进行时》</b><br />
       <sub>校园青春文学 · 时代经典出版社</sub><br />
@@ -71,7 +71,7 @@
 | --- | --- | --- | --- |
 | 清华大学图书馆 | 纸本馆藏 | 西馆（逸夫馆）· `TN929.53 L324` | [水木搜索](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/sortList?query=any,contains,%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98&tab=default_tab&search_scope=print_scope&vid=86THU) |
 | 北京大学图书馆 | 纸本馆藏 | 北大中心馆 · `TP316/1100` | [未名搜索](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071) |
-| 中国科学院大学图书馆 | 纸本馆藏 | 雁栖馆（2 册）· `TN929.53/334` | [中科院文献中心](https://www.las.ac.cn/front/book/detail?id=3104950a74f86ba28b92df1c1b567b62) |
+| 中国科学院大学 | 纸本馆藏 | 雁栖馆（2 册）· `TN929.53/334` | [馆藏详情](https://www.las.ac.cn/front/book/detail?id=3104950a74f86ba28b92df1c1b567b62) |
 | 浙江大学图书馆 | 纸本馆藏 | 浙大馆（2 册）· `TN929.53/CL105` | 馆藏编目 |
 | 河北经贸大学 | 硕士必读书目 | 计算机科学与技术硕士培养方案 | [培养方案](https://ggw.100xuexi.com/WebSpecF/EnrolDetail.aspx?id=222953) · [百科](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98) |
 | 其他高校图书馆 | 馆藏 / 推荐 | 湖南大学、南信大（`TN929.53/920`）、安职大、浙工商、东北林大等 | [安职大](https://www.uta.edu.cn/tsg/2020/1030/c1800a96515/page.htm) |
