@@ -6,6 +6,7 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 [![APEC App Challenge](https://img.shields.io/badge/2023_APEC_App_Challenge-Runner--Up_(Seattle)-0ea5e9?style=flat-square)](https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners)
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains_Plugins-61K%2B_Downloads-f59e0b?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e)
 [![ETOILE Michelin](https://img.shields.io/badge/%C3%89TOILE-579%E2%98%85_Michelin_%26_50_Best-991b1b?style=flat-square)](https://leotyndale.github.io/etoile-almanach/)
+[![Dianping](https://img.shields.io/badge/%E5%A4%A7%E4%BC%97%E7%82%B9%E8%AF%84%C2%B7%E6%9D%8E%E8%89%AF%E9%80%B8-Lv8_%E7%BA%A2V_%C2%B7_1.8W%E7%B2%89%E4%B8%9D-f97316?style=flat-square)](https://leotyndale.github.io/etoile-almanach/)
 [![Blog](https://img.shields.io/badge/Blog-ForDeer-0284c7?style=flat-square&logo=rss&logoColor=white)](https://blog.imuxuan.com/)
 [![Website](https://img.shields.io/badge/Website-imuxuan.com-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://imuxuan.com/)
 [![Followers](https://img.shields.io/github/followers/leotyndale?style=flat-square&color=6366f1)](https://github.com/leotyndale?tab=followers)
@@ -56,11 +57,11 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
         <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile.jpg" width="360" alt="ÉTOILE Personal Michelin and 50 Best Almanac" />
       </a>
       <br />
-      <b>ÉTOILE · 米其林与 50 Best 私人典藏志</b>
+      <b>环球美食 · ÉTOILE & 大众点评「李良逸」</b>
       <br />
-      <sub>579★ 累计（57 三星 / 81 二星 / 246 一星）· 61 家 50 Best · 47 城</sub>
+      <sub>579★ 米其林 / 61 家 50 Best · 大众点评 Lv8 红V黑钻 · 1.8万粉 / 67万赞</sub>
       <br />
-      <a href="https://leotyndale.github.io/etoile-almanach/">在线典藏志</a> · <a href="https://github.com/leotyndale/etoile-almanach">开源项目</a>
+      <a href="https://leotyndale.github.io/etoile-almanach/">ÉTOILE 典藏志</a> · <a href="https://github.com/leotyndale/etoile-almanach">开源项目</a>
     </td>
   </tr>
 </table>
@@ -111,8 +112,9 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 
 ---
 
-### 🌍 生活方式与 Web 作品 (Culinary & Lifestyle Apps)
+### 🌍 美食影响力与生活方式作品 (Culinary & Lifestyle)
 
+- **大众点评官方红 V 创作者「李良逸」**：**Lv8 · 黑钻会员 · 官方红V「优质内容创作者」**（注册 12 年 · **93 枚勋章**），**1.8 万+ 粉丝**、**67.0 万+ 获赞**；足迹覆盖 **127 个国家 / 368 个城市**，累计打卡 **13,718 次**、记录用餐 **7,803 次**（含五年老店 **3,768 家**）。
 - **[ÉTOILE — 米其林摘星与世界五十佳私人典藏志](https://leotyndale.github.io/etoile-almanach/)**：覆盖 **47 城 · 384 家星级食府 · 579 颗米其林星冕**（含 57 家三星、81 家二星、246 家一星、17 家绿星及 61 家 World's / Asia's 50 Best 上榜餐厅记录）。
 - **[清华食堂指南（tsinghua-food）](https://leotyndale.github.io/tsinghua-food/)**：校园食堂距离排序、实时营业状态与日常美食打卡 Web 应用。
 
