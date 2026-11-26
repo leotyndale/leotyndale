@@ -65,12 +65,7 @@ Peking University (SSM) · Google Developer Expert (Android) · Mobile & Cross-P
   </tr>
 </table>
 
-#### 🎓 教育背景与校友荣誉 (Education & Alumni)
-
-| 院校 / 学院 | 亮点与官方收录 | 链接 |
-| --- | --- | --- |
-| **北京大学 · 软件与微电子学院**（PKU SSM） | 个人著作《移动开发架构设计实战》亦获北京大学图书馆中心馆藏收录（`TP316/1100`） | [学院官网](https://ss.pku.edu.cn/) · [北大馆藏](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071) |
-| **内蒙古工业大学 · 智能科学与技术学院**（原数据科学与应用学院） | 2016 届毕业生 · 入选母校官方「校友风采」人物专栏 | [校友风采](https://dsj.imut.edu.cn/info/1053/3884.htm) |
+> 🎓 **北京大学 · 软件与微电子学院（PKU SSM）** — [学院官网](https://ss.pku.edu.cn/) · 著作《移动开发架构设计实战》获[北京大学图书馆中心馆藏收录](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071)（`TP316/1100`） · [校友墙](https://dsj.imut.edu.cn/info/1053/3884.htm)
 
 ---
 
