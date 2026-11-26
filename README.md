@@ -17,51 +17,49 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 
 <table>
   <tr>
-    <td align="center" width="420">
+    <td align="center" width="25%">
       <a href="https://developers.google.com/profile/u/fly">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_gde.jpg" width="360" alt="Google Developer Expert Android Certificate" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_gde_v3.jpg" width="195" alt="Google Developer Expert Android Certificate" />
       </a>
       <br />
-      <b>Google Developer Expert (Android)</b>
+      <b>Android GDE</b>
       <br />
-      <sub>大中华区第 4 / 全球第 122 位官方认证专家</sub>
+      <sub>大中华区第 4 / 全球第 122</sub>
       <br />
-      <a href="https://developers.google.com/profile/u/fly">Google Developer Profile</a>
+      <a href="https://developers.google.com/profile/u/fly">Google 主页</a>
     </td>
-    <td align="center" width="420">
+    <td align="center" width="25%">
       <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_apec.jpg" width="360" alt="2023 APEC App Challenge Runner-Up Seattle" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_apec_v3.jpg" width="195" alt="2023 APEC App Challenge Runner-Up Seattle" />
       </a>
       <br />
-      <b>2023 APEC App Challenge 亚军</b>
+      <b>APEC 挑战赛亚军</b>
       <br />
-      <sub>美国西雅图亚太经合组织官方决赛 · 作品 ExpertPro</sub>
+      <sub>2023 西雅图 · ExpertPro</sub>
       <br />
-      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">官方新闻稿</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">官方视频</a>
+      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">新闻稿</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">视频</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="420">
+    <td align="center" width="25%">
       <a href="https://travelerscenturyclub.org/">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_tcc.jpg" width="360" alt="Travelers Century Club Membership Card" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_tcc_v3.jpg" width="195" alt="Travelers Century Club Membership Card" />
       </a>
       <br />
-      <b>Travelers' Century Club (TCC) 会员</b>
+      <b>TCC 世纪俱乐部</b>
       <br />
-      <sub>会员编号 No. 7344 · 深度游历全球 130+ 国家与地区</sub>
+      <sub>No. 7344 · 游历 130+ 国</sub>
       <br />
-      <a href="https://travelerscenturyclub.org/">TCC 官网</a> · <a href="https://imuxuan.com/">游记与随笔</a>
+      <a href="https://travelerscenturyclub.org/">官网</a> · <a href="https://imuxuan.com/">游记</a>
     </td>
-    <td align="center" width="420">
+    <td align="center" width="25%">
       <a href="https://leotyndale.github.io/etoile-almanach/">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile.jpg" width="360" alt="ÉTOILE Personal Michelin and 50 Best Almanac" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile_v3.jpg" width="195" alt="ÉTOILE Personal Michelin and 50 Best Almanac" />
       </a>
       <br />
-      <b>环球美食 · ÉTOILE & 大众点评「李良逸」</b>
+      <b>环球美食与点评</b>
       <br />
-      <sub>579★ 米其林 / 61 家 50 Best · 大众点评 Lv8 红V黑钻 · 1.8万粉 / 67万赞</sub>
+      <sub>579★ 米其林 · 点评 1.8W粉</sub>
       <br />
-      <a href="https://leotyndale.github.io/etoile-almanach/">ÉTOILE 典藏志</a> · <a href="https://github.com/leotyndale/etoile-almanach">开源项目</a>
+      <a href="https://leotyndale.github.io/etoile-almanach/">ÉTOILE</a> · <a href="https://github.com/leotyndale/etoile-almanach">源码</a>
     </td>
   </tr>
 </table>
