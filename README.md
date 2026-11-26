@@ -5,19 +5,20 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 [![Android GDE](https://img.shields.io/badge/Google_Developer_Expert-Android-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/fly)
 [![APEC App Challenge](https://img.shields.io/badge/2023_APEC_App_Challenge-Runner--Up_(Seattle)-0ea5e9?style=flat-square)](https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners)
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains_Plugins-61K%2B_Downloads-f59e0b?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e)
+[![ETOILE Michelin](https://img.shields.io/badge/%C3%89TOILE-579%E2%98%85_Michelin_%26_50_Best-991b1b?style=flat-square)](https://leotyndale.github.io/etoile-almanach/)
 [![Blog](https://img.shields.io/badge/Blog-ForDeer-0284c7?style=flat-square&logo=rss&logoColor=white)](https://blog.imuxuan.com/)
 [![Website](https://img.shields.io/badge/Website-imuxuan.com-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://imuxuan.com/)
 [![Followers](https://img.shields.io/github/followers/leotyndale?style=flat-square&color=6366f1)](https://github.com/leotyndale?tab=followers)
 
 ---
 
-### 🏆 荣誉与认证 (Honors & Highlights)
+### 🏆 荣誉与跨界足迹 (Honors & Highlights)
 
 <table>
   <tr>
-    <td align="center" width="270">
+    <td align="center" width="420">
       <a href="https://developers.google.com/profile/u/fly">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/gde_cert.jpg" width="240" alt="Google Developer Expert Android Certificate" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_gde.jpg" width="360" alt="Google Developer Expert Android Certificate" />
       </a>
       <br />
       <b>Google Developer Expert (Android)</b>
@@ -26,9 +27,9 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
       <br />
       <a href="https://developers.google.com/profile/u/fly">Google Developer Profile</a>
     </td>
-    <td align="center" width="270">
+    <td align="center" width="420">
       <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/apec_ceremony.jpg" width="240" alt="2023 APEC App Challenge Runner-Up Seattle" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_apec.jpg" width="360" alt="2023 APEC App Challenge Runner-Up Seattle" />
       </a>
       <br />
       <b>2023 APEC App Challenge 亚军</b>
@@ -37,16 +38,29 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
       <br />
       <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">官方新闻稿</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">官方视频</a>
     </td>
-    <td align="center" width="270">
+  </tr>
+  <tr>
+    <td align="center" width="420">
       <a href="https://travelerscenturyclub.org/">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/tcc_member.jpg" width="240" alt="Travelers Century Club Membership Card" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_tcc.jpg" width="360" alt="Travelers Century Club Membership Card" />
       </a>
       <br />
-      <b>Travelers' Century Club 会员</b>
+      <b>Travelers' Century Club (TCC) 会员</b>
       <br />
-      <sub>TCC Member No. 7344 · 深度游历全球 130+ 国家与地区</sub>
+      <sub>会员编号 No. 7344 · 深度游历全球 130+ 国家与地区</sub>
       <br />
       <a href="https://travelerscenturyclub.org/">TCC 官网</a> · <a href="https://imuxuan.com/">游记与随笔</a>
+    </td>
+    <td align="center" width="420">
+      <a href="https://leotyndale.github.io/etoile-almanach/">
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile.jpg" width="360" alt="ÉTOILE Personal Michelin and 50 Best Almanac" />
+      </a>
+      <br />
+      <b>ÉTOILE · 米其林与 50 Best 私人典藏志</b>
+      <br />
+      <sub>579★ 累计（57 三星 / 81 二星 / 246 一星）· 61 家 50 Best · 47 城</sub>
+      <br />
+      <a href="https://leotyndale.github.io/etoile-almanach/">在线典藏志</a> · <a href="https://github.com/leotyndale/etoile-almanach">开源项目</a>
     </td>
   </tr>
 </table>
@@ -57,20 +71,20 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 
 <table>
   <tr>
-    <td align="center" width="240">
+    <td align="center" width="280">
       <a href="https://item.jd.com/12730926.html">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/2019/08/901574650976_.pic_.jpg" width="140" alt="移动开发架构设计实战" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_arch.jpg" width="145" alt="移动开发架构设计实战" />
       </a>
       <br />
       <b>《移动开发架构设计实战》</b>
       <br />
-      <sub>电子工业出版社 · Andy Hunt 力荐 · 河北经贸大学计算机硕士必读书目</sub>
+      <sub>电子工业出版社 · Andy Hunt 力荐 · 河北经贸大学硕士必读书目</sub>
       <br />
       <a href="https://item.jd.com/12730926.html">京东</a> · <a href="https://book.douban.com/subject/34872142/">豆瓣</a> · <a href="https://github.com/leotyndale/AppArchitecture">源码</a> · <a href="https://blog.imuxuan.com/archives/116">勘误</a> · <a href="https://it.hueb.edu.cn/info/1151/2205.htm">培养方案</a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="280">
       <a href="https://imuxuan.com/">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/2019/05/s32280955.jpg" width="115" alt="嵬魅枯影" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_wmk.jpg" width="145" alt="嵬魅枯影" />
       </a>
       <br />
       <b>《嵬魅枯影》</b>
@@ -79,9 +93,9 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
       <br />
       <a href="https://imuxuan.com/">沐暄公益网</a>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="280">
       <a href="https://imuxuan.com/">
-        <img src="https://blog.imuxuan.com/wp-content/uploads/2019/05/s32291376.jpg" width="115" alt="青春进行时" />
+        <img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_youth.jpg" width="145" alt="青春进行时" />
       </a>
       <br />
       <b>《青春进行时》</b>
@@ -94,6 +108,13 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
 </table>
 
 > 🎓 **特邀系列课程**：[《程序员的向上管理法》](https://coding.imooc.com/class/580.html)（慕课网官方特邀录制 · 工程师职业成长、研发效能对齐与职场沟通方法论）
+
+---
+
+### 🌍 生活方式与 Web 作品 (Culinary & Lifestyle Apps)
+
+- **[ÉTOILE — 米其林摘星与世界五十佳私人典藏志](https://leotyndale.github.io/etoile-almanach/)**：覆盖 **47 城 · 384 家星级食府 · 579 颗米其林星冕**（含 57 家三星、81 家二星、246 家一星、17 家绿星及 61 家 World's / Asia's 50 Best 上榜餐厅记录）。
+- **[清华食堂指南（tsinghua-food）](https://leotyndale.github.io/tsinghua-food/)**：校园食堂距离排序、实时营业状态与日常美食打卡 Web 应用。
 
 ---
 
