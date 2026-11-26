@@ -4,6 +4,7 @@
 
 [![PKU SSM](https://img.shields.io/badge/PKU-Software_%26_Microelectronics-8C0000?style=flat-square)](https://ss.pku.edu.cn/)
 [![Android GDE](https://img.shields.io/badge/Google-Android_GDE-1f2937?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/fly)
+[![GitHub Stars](https://img.shields.io/github/stars/leotyndale?affiliations=OWNER&style=flat-square&label=Stars&color=334155)](https://github.com/leotyndale?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-ForDeer-334155?style=flat-square)](https://blog.imuxuan.com/)
 [![Website](https://img.shields.io/badge/Web-imuxuan.com-334155?style=flat-square)](https://imuxuan.com/)
 
@@ -82,14 +83,14 @@
 
 #### GitHub 开源代表项目
 
-| 项目 | 简介 | 延伸阅读 |
-| --- | --- | --- |
-| [EnFloatingView](https://github.com/leotyndale/EnFloatingView) | 无需一切权限的应用内悬浮窗，全 ROM 兼容 | [原理剖析](https://blog.imuxuan.com/archives/92) |
-| [AppArchitecture](https://github.com/leotyndale/AppArchitecture) | 《移动开发架构设计实战》配套全书源码 | [勘误与答疑](https://blog.imuxuan.com/archives/116) |
-| [EnCrashWhiteList](https://github.com/leotyndale/EnCrashWhiteList) | 根治 ROM 崩溃问题，Crash 白名单异常处理方案 | [ForDeer 博客](https://blog.imuxuan.com/) |
-| [EnDebugBubble](https://github.com/leotyndale/EnDebugBubble) | 应用内悬浮调试气泡入口，动态监控内存信息 | [ForDeer 博客](https://blog.imuxuan.com/) |
-| [EnLastLineNoSpaceTextView](https://github.com/leotyndale/EnLastLineNoSpaceTextView) | 消除 TextView `lineSpacingExtra` 末行多余空白 | [沐暄公益网](https://imuxuan.com/) |
-| [EnViewSelector](https://github.com/leotyndale/EnViewSelector) | 轻量级文字选择与填充控件 | [ForDeer 博客](https://blog.imuxuan.com/) |
+| 项目 | 简介 | Stars | 延伸阅读 |
+| --- | --- | --- | --- |
+| [EnFloatingView](https://github.com/leotyndale/EnFloatingView) | 无需一切权限的应用内悬浮窗，全 ROM 兼容 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnFloatingView?style=flat-square&color=f59e0b) | [原理剖析](https://blog.imuxuan.com/archives/92) |
+| [AppArchitecture](https://github.com/leotyndale/AppArchitecture) | 《移动开发架构设计实战》配套全书源码 | ![Stars](https://img.shields.io/github/stars/leotyndale/AppArchitecture?style=flat-square&color=f59e0b) | [勘误与答疑](https://blog.imuxuan.com/archives/116) |
+| [EnCrashWhiteList](https://github.com/leotyndale/EnCrashWhiteList) | 根治 ROM 崩溃问题，Crash 白名单异常处理方案 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnCrashWhiteList?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
+| [EnDebugBubble](https://github.com/leotyndale/EnDebugBubble) | 应用内悬浮调试气泡入口，动态监控内存信息 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnDebugBubble?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
+| [EnLastLineNoSpaceTextView](https://github.com/leotyndale/EnLastLineNoSpaceTextView) | 消除 TextView `lineSpacingExtra` 末行多余空白 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnLastLineNoSpaceTextView?style=flat-square&color=f59e0b) | [沐暄公益网](https://imuxuan.com/) |
+| [EnViewSelector](https://github.com/leotyndale/EnViewSelector) | 轻量级文字选择与填充控件 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnViewSelector?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
 
 #### JetBrains 官方市场插件（[开发者主页](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e) · 累计下载 **61,584+**）
 
