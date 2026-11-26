@@ -1,7 +1,8 @@
 ### Hi there, I'm Yunpeng Li (Leo Tyndale / 沐暄) 👋
 
-Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author · Speaker · TCC Member
+Peking University (SSM) · Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author · Speaker · TCC Member
 
+[![Peking University SSM](https://img.shields.io/badge/Peking_University-School_of_Software_%26_Microelectronics-8C0000?style=flat-square)](https://ss.pku.edu.cn/)
 [![Android GDE](https://img.shields.io/badge/Google_Developer_Expert-Android-4285F4?style=flat-square&logo=google&logoColor=white)](https://developers.google.com/profile/u/fly)
 [![APEC App Challenge](https://img.shields.io/badge/2023_APEC_App_Challenge-Runner--Up_(Seattle)-0ea5e9?style=flat-square)](https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners)
 [![JetBrains Plugins](https://img.shields.io/badge/JetBrains_Plugins-61K%2B_Downloads-f59e0b?style=flat-square&logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/vendor/5cabccf2-2c7c-4ea4-86e7-afdd99659b7e)
@@ -64,7 +65,12 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
   </tr>
 </table>
 
-> 🎓 **母校杰出校友收录**：入选 [**内蒙古工业大学智能科学与技术学院（原数据科学与应用学院）· 校友风采**](https://dsj.imut.edu.cn/info/1053/3884.htm)（2016 届毕业生 · 沐暄网创始人 · 国内首部移动架构著作作者 · 吉林省青少年作家协会会员）。
+#### 🎓 教育背景与校友荣誉 (Education & Alumni)
+
+| 院校 / 学院 | 亮点与官方收录 | 链接 |
+| --- | --- | --- |
+| **北京大学 · 软件与微电子学院**（PKU SSM） | 个人著作《移动开发架构设计实战》亦获北京大学图书馆中心馆藏收录（`TP316/1100`） | [学院官网](https://ss.pku.edu.cn/) · [北大馆藏](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071) |
+| **内蒙古工业大学 · 智能科学与技术学院**（原数据科学与应用学院） | 2016 届毕业生 · 入选母校官方「校友风采」人物专栏 | [校友风采](https://dsj.imut.edu.cn/info/1053/3884.htm) |
 
 ---
 
@@ -108,8 +114,17 @@ Google Developer Expert (Android) · Mobile & Cross-Platform Architect · Author
   </tr>
 </table>
 
-> 🏛️ **高校馆藏与培养方案收录（《移动开发架构设计实战》，ISBN `9787121375071`）**：已获 [**清华大学图书馆**](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/sortList?query=any,contains,%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98&tab=default_tab&search_scope=print_scope&vid=86THU)（`TN929.53 L324`）、[**北京大学图书馆**](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071)（`TP316/1100`）、[**中国科学院大学图书馆**](https://www.las.ac.cn/front/book/detail?id=3104950a74f86ba28b92df1c1b567b62)（`TN929.53/334`）、浙江大学图书馆（`TN929.53/CL105`）、湖南大学、南京信息工程大学（`TN929.53/920`）等多所高校图书馆馆藏收录；入选河北经贸大学计算机科学与技术专业硕士研究生必读书目（[培养方案原文](https://ggw.100xuexi.com/WebSpecF/EnrolDetail.aspx?id=222953) · [百度百科](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98)）。
->
+#### 🏛️ 《移动开发架构设计实战》（ISBN `9787121375071`）高校馆藏与培养方案收录
+
+| 机构 / 高校 | 收录类型 | 馆藏地 / 索书号 / 说明 | 核验入口 |
+| --- | --- | --- | --- |
+| **清华大学图书馆** | 纸本馆藏（在架） | 西馆（逸夫馆）二层科技图书借阅区（西224）· `TN929.53 L324` | [水木搜索](https://discover.lib.tsinghua.edu.cn/entrance/searchEntrance/sortList?query=any,contains,%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98&tab=default_tab&search_scope=print_scope&vid=86THU) |
+| **北京大学图书馆** | 纸本馆藏 | 北大中心馆 · `TP316/1100` | [未名学术搜索](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071) |
+| **中国科学院大学图书馆** | 纸本馆藏（2 册在架） | 雁栖三层南区流通阅览书库 · `TN929.53/334` | [中科院文献中心](https://www.las.ac.cn/front/book/detail?id=3104950a74f86ba28b92df1c1b567b62) |
+| **浙江大学图书馆** | 纸本馆藏（2 册） | 浙江大学图书馆 · `TN929.53/CL105` | 馆藏编目收录 |
+| **河北经贸大学** | 硕士培养方案必读书目 | 计算机科学与技术专业硕士学位研究生培养方案必读书目 | [培养方案原文](https://ggw.100xuexi.com/WebSpecF/EnrolDetail.aspx?id=222953) · [百度百科](https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98) |
+| **更多高校图书馆** | 纸本馆藏 / 新书推荐 | 湖南大学、南京信息工程大学（`TN929.53/920`）、安徽职业技术大学、浙江工商大学、东北林业大学、泉州师范学院、河南城建学院等 | [安职大新书推荐](https://www.uta.edu.cn/tsg/2020/1030/c1800a96515/page.htm) |
+
 > 🎓 **特邀系列课程**：[《程序员的向上管理法》](https://coding.imooc.com/class/580.html)（慕课网官方特邀录制 · 工程师职业成长、研发效能对齐与职场沟通方法论）
 
 ---
