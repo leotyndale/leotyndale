@@ -65,7 +65,7 @@ Peking University (SSM) · Google Developer Expert (Android) · Mobile & Cross-P
   </tr>
 </table>
 
-> 🎓 **北京大学 · 软件与微电子学院（PKU SSM）** — [学院官网](https://ss.pku.edu.cn/) · 著作《移动开发架构设计实战》获[北京大学图书馆中心馆藏收录](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071)（`TP316/1100`） · [校友墙](https://dsj.imut.edu.cn/info/1053/3884.htm)
+> 🎓 **北京大学 · 软件与微电子学院（PKU SSM）** — [学院官网](https://ss.pku.edu.cn/) · 著作《移动开发架构设计实战》获[北京大学图书馆中心馆藏收录](https://pku.summon.serialssolutions.com/#!/search?ho=t&include.ft.matches=f&l=zh-CN&q=9787121375071)（`TP316/1100`）
 
 ---
 
