@@ -85,8 +85,10 @@
 
 | 项目 | 简介 | Stars | 延伸阅读 |
 | --- | --- | --- | --- |
-| [EnFloatingView](https://github.com/leotyndale/EnFloatingView) | 无需一切权限的应用内悬浮窗，全 ROM 兼容 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnFloatingView?style=flat-square&color=f59e0b) | [原理剖析](https://blog.imuxuan.com/archives/92) |
-| [AppArchitecture](https://github.com/leotyndale/AppArchitecture) | 《移动开发架构设计实战》配套全书源码 | ![Stars](https://img.shields.io/github/stars/leotyndale/AppArchitecture?style=flat-square&color=f59e0b) | [勘误与答疑](https://blog.imuxuan.com/archives/116) |
+| [mobile-agent-skills](https://github.com/leotyndale/mobile-agent-skills) | 面向 Claude Code / Cursor / Codex / Antigravity 的移动端 AI 技能库 | ![Stars](https://img.shields.io/github/stars/leotyndale/mobile-agent-skills?style=flat-square&color=f59e0b) | [10 项生产技能](https://github.com/leotyndale/mobile-agent-skills#the-10-production-skills) |
+| [EnFloatingView](https://github.com/leotyndale/EnFloatingView) | 无需一切权限的应用内悬浮窗，全 ROM 兼容（支持 Compose 混编） | ![Stars](https://img.shields.io/github/stars/leotyndale/EnFloatingView?style=flat-square&color=f59e0b) | [原理剖析](https://blog.imuxuan.com/archives/92) |
+| [AppArchitecture](https://github.com/leotyndale/AppArchitecture) | 2026 移动端架构工程实践指南 & 《移动开发架构设计实战》随书源码 | ![Stars](https://img.shields.io/github/stars/leotyndale/AppArchitecture?style=flat-square&color=f59e0b) | [2026 指南](https://github.com/leotyndale/AppArchitecture/tree/master/playbook) · [勘误](https://blog.imuxuan.com/archives/116) |
+| [etoile-almanach](https://github.com/leotyndale/etoile-almanach) | 高颜值个人米其林与 World's 50 Best 美食地图开源模板（3 分钟部署） | ![Stars](https://img.shields.io/github/stars/leotyndale/etoile-almanach?style=flat-square&color=f59e0b) | [在线 Demo](https://leotyndale.github.io/etoile-almanach/) |
 | [EnCrashWhiteList](https://github.com/leotyndale/EnCrashWhiteList) | 根治 ROM 崩溃问题，Crash 白名单异常处理方案 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnCrashWhiteList?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
 | [EnDebugBubble](https://github.com/leotyndale/EnDebugBubble) | 应用内悬浮调试气泡入口，动态监控内存信息 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnDebugBubble?style=flat-square&color=f59e0b) | [ForDeer 博客](https://blog.imuxuan.com/) |
 | [EnLastLineNoSpaceTextView](https://github.com/leotyndale/EnLastLineNoSpaceTextView) | 消除 TextView `lineSpacingExtra` 末行多余空白 | ![Stars](https://img.shields.io/github/stars/leotyndale/EnLastLineNoSpaceTextView?style=flat-square&color=f59e0b) | [沐暄公益网](https://imuxuan.com/) |
