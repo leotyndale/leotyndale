@@ -13,25 +13,25 @@
 <table>
   <tr>
     <td align="center" valign="top" width="25%">
-      <a href="https://developers.google.com/profile/u/fly"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_gde_v3.jpg" width="185" alt="Google Developer Expert Android Certificate" /></a><br />
+      <a href="https://developers.google.com/profile/u/fly"><img src="./assets/card_gde_v3.jpg" width="185" alt="Google Developer Expert Android Certificate" /></a><br />
       <b>Android GDE</b><br />
       <sub>大中华区第 4 / 全球第 122</sub><br />
       <sub><a href="https://developers.google.com/profile/u/fly">Google 主页</a></sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_apec_v3.jpg" width="185" alt="2023 APEC App Challenge Runner-Up Seattle" /></a><br />
+      <a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners"><img src="./assets/card_apec_v3.jpg" width="185" alt="2023 APEC App Challenge Runner-Up Seattle" /></a><br />
       <b>APEC 挑战赛亚军</b><br />
       <sub>2023 西雅图 · ExpertPro</sub><br />
       <sub><a href="https://www.apec.org/press/news-releases/2023/apec-app-challenge-unveils-winners-transforming-the-digital-landscape-for-small-business-owners">官方新闻稿</a> · <a href="https://www.apec.org/press/videos/2023/the-2023-apec-app-challenge">官方视频</a></sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://travelerscenturyclub.org/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_tcc_v3.jpg" width="185" alt="Travelers Century Club Membership Card" /></a><br />
+      <a href="https://travelerscenturyclub.org/"><img src="./assets/card_tcc_v3.jpg" width="185" alt="Travelers Century Club Membership Card" /></a><br />
       <b>TCC 世纪俱乐部</b><br />
       <sub>No. 7344 · 游历 130+ 国</sub><br />
       <sub><a href="https://travelerscenturyclub.org/">官网</a> · <a href="https://imuxuan.com/">游记</a></sub>
     </td>
     <td align="center" valign="top" width="25%">
-      <a href="https://leotyndale.github.io/etoile-almanach/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/card_etoile_v3.jpg" width="185" alt="ÉTOILE Personal Michelin and 50 Best Almanac" /></a><br />
+      <a href="https://leotyndale.github.io/etoile-almanach/"><img src="./assets/card_etoile_v3.jpg" width="185" alt="ÉTOILE Personal Michelin and 50 Best Almanac" /></a><br />
       <b>环球美食与点评</b><br />
       <sub>579★ 米其林 · 点评 1.8W粉</sub><br />
       <sub><a href="https://leotyndale.github.io/etoile-almanach/">ÉTOILE</a> · <a href="https://github.com/leotyndale/etoile-almanach">源码</a></sub>
@@ -46,19 +46,19 @@
 <table>
   <tr>
     <td align="center" valign="top" width="280">
-      <a href="https://item.jd.com/12730926.html"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_arch.jpg" width="135" alt="移动开发架构设计实战" /></a><br />
+      <a href="https://item.jd.com/12730926.html"><img src="./assets/book_arch.jpg" width="135" alt="移动开发架构设计实战" /></a><br />
       <b>《移动开发架构设计实战》</b><br />
       <sub>电子工业出版社 · Andy Hunt 力荐 · 河北经贸大学硕士必读书目</sub><br />
       <sub><a href="https://item.jd.com/12730926.html">京东</a> · <a href="https://book.douban.com/subject/34872142/">豆瓣</a> · <a href="https://github.com/leotyndale/AppArchitecture">源码</a> · <a href="https://blog.imuxuan.com/archives/116">勘误</a> · <a href="https://ggw.100xuexi.com/WebSpecF/EnrolDetail.aspx?id=222953">培养方案</a> · <a href="https://baike.baidu.com/item/%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%88%98">百科</a></sub>
     </td>
     <td align="center" valign="top" width="280">
-      <a href="https://imuxuan.com/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_wmk.jpg" width="135" alt="嵬魅枯影" /></a><br />
+      <a href="https://imuxuan.com/"><img src="./assets/book_wmk.jpg" width="135" alt="嵬魅枯影" /></a><br />
       <b>《嵬魅枯影》</b><br />
       <sub>长篇奇幻小说 · 当代文化艺术出版社</sub><br />
       <sub><a href="https://imuxuan.com/">沐暄公益网</a></sub>
     </td>
     <td align="center" valign="top" width="280">
-      <a href="https://imuxuan.com/"><img src="https://blog.imuxuan.com/wp-content/uploads/profile/book_youth.jpg" width="135" alt="青春进行时" /></a><br />
+      <a href="https://imuxuan.com/"><img src="./assets/book_youth.jpg" width="135" alt="青春进行时" /></a><br />
       <b>《青春进行时》</b><br />
       <sub>校园青春文学 · 时代经典出版社</sub><br />
       <sub><a href="https://imuxuan.com/">沐暄公益网</a></sub>
@@ -154,6 +154,6 @@
 
 | 平台 / 作品 | 核心数据与认证 | 入口 |
 | --- | --- | --- |
-| **大众点评「李良逸」** | Lv8 · 黑钻会员 · 官方红V「优质内容创作者」（注册 12 年 · 93 枚勋章）· 1.8 万+ 粉丝 · 67.0 万+ 获赞 · 127 国 / 368 城 · 13,718 次打卡 · 7,803 次用餐（含五年老店 3,768 家） | 站内搜索「李良逸」 |
-| **ÉTOILE 摘星志** | 覆盖 47 城 · 384 家星级食府 · 579 颗米其林星冕（57 三星 / 81 二星 / 246 一星 / 17 绿星）及 61 家 World's / Asia's 50 Best 上榜餐厅记录 | [在线访问](https://leotyndale.github.io/etoile-almanach/) · [源码](https://github.com/leotyndale/etoile-almanach) |
+| **大众点评「李良逸」** | Lv8 · 黑钻会员 · 官方红V「优质内容创作者」（注册 12 年 · 93 枚勋章）· **3,184.9 万+ 公开浏览**（笔记 2,281.2 万 + 评价 903.7 万）· **引导 17.5 万+ 人选店** · 1.8 万+ 粉丝 · 67.0 万+ 获赞 · 127 国 / 326 城 · 13,718 次打卡（12,663 个独立地点 · 北京覆盖率 52.6%）· 7,079 篇公开评价（>10 万字） | 站内搜索「李良逸」 |
+| **ÉTOILE 摘星志** | 覆盖 47 城 · **492 家指南名店**（384 家米其林星级食府 / 579 颗米其林星冕：57 三星 / 81 二星 / 246 一星 / 17 绿星、61 家 World's / Asia's 50 Best、13 家 21 帽厨师帽食府）个人美食年鉴 | [在线访问](https://leotyndale.github.io/etoile-almanach/) · [源码](https://github.com/leotyndale/etoile-almanach) |
 | **清华食堂指南** | 校园食堂距离排序、实时营业状态与日常美食打卡 Web 应用 | [在线访问](https://leotyndale.github.io/tsinghua-food/) |
